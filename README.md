@@ -1,5 +1,3 @@
-## Microservice Architecture and System Design with Python & Kubernetes
+## Developing, deploying micro services application that converts a video file to mp3 file and notifies the user by sending an email.
 
-This repository refers to the [freeCodeCamp.org](https://www.freecodecamp.org/) hands-on tutorial about microservices architecture and distributed systems using Python, Kubernetes, RabbitMQ, MongoDB, and MySQL.
-
-Watch the [YouTube video](https://www.youtube.com/watch?v=hmkF77F9TLw) for more information.
+This has been done as part of Scalable services assignment by BITS Pilani WILP Students of batch 2022-2024 (Semester 2).
