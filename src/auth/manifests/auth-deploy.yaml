@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: auth
-          image: sweasytech/auth
+          image: neelima06101997/auth
           ports:
             - containerPort: 5000
           envFrom:

@@ -21,13 +21,14 @@ channel = connection.channel()
 
 @server.route("/login", methods=["POST"])
 def login():
+    print("Login started")
     token, err = access.login(request)
 
     if not err:
         return token
     else:
         return err
-
+    print("Login started")
 
 @server.route("/upload", methods=["POST"])
 def upload():
